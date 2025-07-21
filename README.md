@@ -36,10 +36,6 @@ Visualização adaptada para celulares:
 
 ---
 
-## 📂 Como visualizar
+## Você pode visualizar meu site em:
 
-Você pode clonar o repositório e abrir o arquivo `index.html` em seu navegador para visualizar o projeto:
-
-```bash
-git clone https://github.com/adriciachirani/primeiro-projeto-responsivo.git
-cd primeiro-projeto-responsivo
+https://adriciachiarini.github.io/primeiro-projeto-responsivo/
